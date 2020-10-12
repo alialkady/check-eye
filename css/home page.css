@@ -1,0 +1,84 @@
+
+body{
+    
+    background-image: url("light.jpg");
+    overflow:hidden;
+    
+}
+#first-photo, #second-photo, #third-photo, #fourth-photo{
+    transform: translate(60%,60%);
+    width: 220px;
+    height: 187px;
+    position: relative;
+    top: -10%;
+    right: 3%;
+    
+}
+#first-photo{
+    
+    
+   
+    cursor: pointer;
+    
+  
+    
+    
+}
+#first-photo:hover{
+    top: 2;
+   
+    
+}
+#second-photo{
+   
+    cursor: pointer;
+    padding: 25px;
+}
+
+#second-photo:hover{
+    top: 2;
+   
+    
+}
+#third-photo{
+   
+    cursor: pointer;
+    padding: 25px;
+}
+#third-photo:hover{
+   top: 2;
+   
+    
+}
+#fourth-photo{
+    
+    cursor: pointer;
+    padding: 25px;
+
+
+}
+#fourth-photo:hover{
+   top: 2;
+   
+    
+}
+#fifth{
+    position: fixed;
+    border-radius: 50%;
+    width: 90px;
+    height:90;
+    box-shadow: 5px;
+    background: #EDF02A;
+    cursor: pointer;
+    bottom: 0%;
+    left: 93.5%;
+    
+    
+}
+svg{
+    width: 60px;
+    height: auto;
+    color: #042E6A;
+    
+    
+}

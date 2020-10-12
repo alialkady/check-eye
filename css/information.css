@@ -1,0 +1,29 @@
+body{
+  background-image: url(black%20wall.jpg);
+
+}
+#title{
+font-family: georgia, Tahoma;
+    color: #0DE3DF;
+    font-size: 34px;
+}
+.h1{
+    font-size:30px; 
+    font-family: serif;
+    color: #07D333; 
+}
+.btn{
+    box-shadow:2px 0px 3px 0px;
+    border-radius: 5%;
+    border: 0.5 solid #000;
+    background-color: #36033D;
+    width: 60px;
+    height: 25px;
+    text-align: center;
+}
+#id{
+    font-family: georgia, Tahoma;
+    color: #0DE3DF;
+    font-size: 34px;
+    
+}

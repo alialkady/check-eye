@@ -1,0 +1,49 @@
+body{
+    background-image: url("chatbackground.png"); 
+    width: 700px;
+    height: 400px;
+    
+}
+#all-box{
+    width: 700px;
+    
+    overflow: hidden;
+    transform: translate(30%,30%);
+    position: relative;
+    top: 99%;
+    left: 50%;
+    
+    
+}
+
+#message-input{
+    width: 300px;
+    
+    
+    
+}
+
+
+ 
+#message-container{
+    color: #F00;
+    font-size: 20px;
+    padding: 10px,0px,0px,0px;
+    
+}
+
+#message-container div:nth-child(2n){
+    background-color: #D85F0A;
+    color: blue;
+
+
+}
+    
+
+#send-button{
+width: 74px;
+text-align: center;    
+background-color: #28A550;
+    
+    
+}
